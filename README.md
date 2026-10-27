@@ -2,7 +2,7 @@
 
 Application Streamlit qui permet de tester et de comparer trois modèles de classification d'images entraînés sur le jeu de données Natural Images (8 classes : avion, voiture, chat, chien, fleur, fruit, moto, personne).
 
-Application en ligne : [lien de l'application]
+Application en ligne : https://cnnappmobilnetinterface-pjrucvrfgwjb6gelwavar9.streamlit.app/
 
 ## Modèles
 
